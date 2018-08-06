@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Mapas">
+      <UniqueIdentifier>{d311d2ab-08cd-4c9c-904a-749f3d54a29b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones">
+      <UniqueIdentifier>{f409d33b-212e-4e7c-92dd-64acf9ce269b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\1">
+      <UniqueIdentifier>{a7811d65-08a0-4b7e-9054-50ead8a98534}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\2">
+      <UniqueIdentifier>{410227d7-ec7a-4f22-8029-0efc1d8738f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\3">
+      <UniqueIdentifier>{b13edfbf-e677-46bc-bcc7-64c090a1b4f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\4">
+      <UniqueIdentifier>{5e360aac-4e00-4c56-bdb7-9a34aee5f334}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\5">
+      <UniqueIdentifier>{ab608f82-90b0-42e4-aaea-f4887f8dfabe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\6">
+      <UniqueIdentifier>{d534bfff-58ce-4f71-b105-34773896038c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\7">
+      <UniqueIdentifier>{825fc6db-6eab-4ec0-aba6-c780050e5cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\8">
+      <UniqueIdentifier>{3062a5e7-e3ef-4b89-a3c0-e986360fdb2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\9">
+      <UniqueIdentifier>{612aa9fc-225e-4f85-a641-5bde20189179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\10">
+      <UniqueIdentifier>{f1a80add-391b-4a31-9e02-e01238007b4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\11">
+      <UniqueIdentifier>{330deda1-4693-4cce-a5c6-c6e11646b9be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\12">
+      <UniqueIdentifier>{d9e91352-fdb6-40c1-9f08-1332797678b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\13">
+      <UniqueIdentifier>{960cb31a-ec78-4f7f-aec3-16159ae9eab1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\14">
+      <UniqueIdentifier>{88bfeece-7a99-4476-8aae-50c9321da716}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\15">
+      <UniqueIdentifier>{a33067fe-8323-498a-b1a9-0d490bcb1500}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\16">
+      <UniqueIdentifier>{1c1fb648-74cf-4b44-974f-023beb31f3cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\17">
+      <UniqueIdentifier>{b96dfc26-331c-46ae-8abf-021c383a8c9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\18">
+      <UniqueIdentifier>{46f1c777-0cfe-4a03-8f2b-bd7bff9f0297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\19">
+      <UniqueIdentifier>{5ac2e562-fb67-45af-8b2b-a1a70d52e926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\20">
+      <UniqueIdentifier>{d33db49d-cfc5-4365-a61f-4bfa5ceac081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Personaje">
+      <UniqueIdentifier>{2a1bccdc-29e3-4689-b516-05448abde700}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Utencilios">
+      <UniqueIdentifier>{722c8f53-3b0c-4c4f-bdb9-cc332a19ca70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\24 Inicial">
+      <UniqueIdentifier>{30040764-6bb3-432a-ba7c-871d7cd27aa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\23 Inicial">
+      <UniqueIdentifier>{b3301f59-b3d6-4d29-88e9-37c593f1c892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\22 Inicial">
+      <UniqueIdentifier>{2ad6e895-6e40-449c-a11b-bd7509160042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites de Pokemones\21 Inicial">
+      <UniqueIdentifier>{4913fa58-5298-4896-a4db-56eab82c2873}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormSeleccion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPersonaje.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMapa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPokemon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormAtrapar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrPokemon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormBatalla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormParada.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pokebola.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pokeparada.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gimnasio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mochila.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cuadrado.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Juego.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Monedas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormSeleccion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPersonaje.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMapa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPokemon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormAtrapar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrPokemon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormBatalla.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormParada.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pokebola.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pokeparada.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gimnasio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mochila.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cuadrado.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Juego.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Monedas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MyForm.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAtrapar.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSeleccion.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBatalla.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormParada.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mochila.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\JUEGO DE PROGRA 2\PKMN.NET Sprite Resource 4\Sprites de Pokemones\1\1_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\1</Filter>
+    </Image>
+    <Image Include="1.gif">
+      <Filter>Resource Files\Sprites de Pokemones\1</Filter>
+    </Image>
+    <Image Include="1_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\1</Filter>
+    </Image>
+    <Image Include="2_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\2</Filter>
+    </Image>
+    <Image Include="2.gif">
+      <Filter>Resource Files\Sprites de Pokemones\2</Filter>
+    </Image>
+    <Image Include="2_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\2</Filter>
+    </Image>
+    <Image Include="..\..\..\JUEGO DE PROGRA 2\PKMN.NET Sprite Resource 4\Sprites de Pokemones\2\2_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\2</Filter>
+    </Image>
+    <Image Include="3_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\3</Filter>
+    </Image>
+    <Image Include="3.gif">
+      <Filter>Resource Files\Sprites de Pokemones\3</Filter>
+    </Image>
+    <Image Include="3_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\3</Filter>
+    </Image>
+    <Image Include="4_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\4</Filter>
+    </Image>
+    <Image Include="4.gif">
+      <Filter>Resource Files\Sprites de Pokemones\4</Filter>
+    </Image>
+    <Image Include="4_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\4</Filter>
+    </Image>
+    <Image Include="5_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\5</Filter>
+    </Image>
+    <Image Include="5.gif">
+      <Filter>Resource Files\Sprites de Pokemones\5</Filter>
+    </Image>
+    <Image Include="5_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\5</Filter>
+    </Image>
+    <Image Include="6_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\6</Filter>
+    </Image>
+    <Image Include="6.gif">
+      <Filter>Resource Files\Sprites de Pokemones\6</Filter>
+    </Image>
+    <Image Include="6_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\6</Filter>
+    </Image>
+    <Image Include="7_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\7</Filter>
+    </Image>
+    <Image Include="7.gif">
+      <Filter>Resource Files\Sprites de Pokemones\7</Filter>
+    </Image>
+    <Image Include="7_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\7</Filter>
+    </Image>
+    <Image Include="8_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\8</Filter>
+    </Image>
+    <Image Include="8.gif">
+      <Filter>Resource Files\Sprites de Pokemones\8</Filter>
+    </Image>
+    <Image Include="8_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\8</Filter>
+    </Image>
+    <Image Include="9_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\9</Filter>
+    </Image>
+    <Image Include="9.gif">
+      <Filter>Resource Files\Sprites de Pokemones\9</Filter>
+    </Image>
+    <Image Include="9_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\9</Filter>
+    </Image>
+    <Image Include="10_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\10</Filter>
+    </Image>
+    <Image Include="10.gif">
+      <Filter>Resource Files\Sprites de Pokemones\10</Filter>
+    </Image>
+    <Image Include="10_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\10</Filter>
+    </Image>
+    <Image Include="11_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\11</Filter>
+    </Image>
+    <Image Include="11.gif">
+      <Filter>Resource Files\Sprites de Pokemones\11</Filter>
+    </Image>
+    <Image Include="11_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\11</Filter>
+    </Image>
+    <Image Include="12_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\12</Filter>
+    </Image>
+    <Image Include="12.gif">
+      <Filter>Resource Files\Sprites de Pokemones\12</Filter>
+    </Image>
+    <Image Include="12_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\12</Filter>
+    </Image>
+    <Image Include="13_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\13</Filter>
+    </Image>
+    <Image Include="13.gif">
+      <Filter>Resource Files\Sprites de Pokemones\13</Filter>
+    </Image>
+    <Image Include="13_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\13</Filter>
+    </Image>
+    <Image Include="14_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\14</Filter>
+    </Image>
+    <Image Include="14.gif">
+      <Filter>Resource Files\Sprites de Pokemones\14</Filter>
+    </Image>
+    <Image Include="14_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\14</Filter>
+    </Image>
+    <Image Include="15_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\15</Filter>
+    </Image>
+    <Image Include="15.gif">
+      <Filter>Resource Files\Sprites de Pokemones\15</Filter>
+    </Image>
+    <Image Include="15_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\15</Filter>
+    </Image>
+    <Image Include="16_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\16</Filter>
+    </Image>
+    <Image Include="16.gif">
+      <Filter>Resource Files\Sprites de Pokemones\16</Filter>
+    </Image>
+    <Image Include="16_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\16</Filter>
+    </Image>
+    <Image Include="17_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\17</Filter>
+    </Image>
+    <Image Include="17.gif">
+      <Filter>Resource Files\Sprites de Pokemones\17</Filter>
+    </Image>
+    <Image Include="17_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\17</Filter>
+    </Image>
+    <Image Include="18_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\18</Filter>
+    </Image>
+    <Image Include="18.gif">
+      <Filter>Resource Files\Sprites de Pokemones\18</Filter>
+    </Image>
+    <Image Include="18_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\18</Filter>
+    </Image>
+    <Image Include="19_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\19</Filter>
+    </Image>
+    <Image Include="19.gif">
+      <Filter>Resource Files\Sprites de Pokemones\19</Filter>
+    </Image>
+    <Image Include="19_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\19</Filter>
+    </Image>
+    <Image Include="20_front.png">
+      <Filter>Resource Files\Sprites de Pokemones\20</Filter>
+    </Image>
+    <Image Include="20_back.png">
+      <Filter>Resource Files\Sprites de Pokemones\20</Filter>
+    </Image>
+    <Image Include="20.gif">
+      <Filter>Resource Files\Sprites de Pokemones\20</Filter>
+    </Image>
+    <Image Include="Mapa4.png">
+      <Filter>Resource Files\Mapas</Filter>
+    </Image>
+    <Image Include="Mapa2.png">
+      <Filter>Resource Files\Mapas</Filter>
+    </Image>
+    <Image Include="Mapa3.png">
+      <Filter>Resource Files\Mapas</Filter>
+    </Image>
+    <Image Include="Mapa1.png">
+      <Filter>Resource Files\Mapas</Filter>
+    </Image>
+    <Image Include="Personaje.png">
+      <Filter>Resource Files\Personaje</Filter>
+    </Image>
+    <Image Include="1_back.gif">
+      <Filter>Resource Files\Sprites de Pokemones\1</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\pokebola1.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="..\..\..\FondoAtraparPok.png">
+      <Filter>Resource Files\Mapas</Filter>
+    </Image>
+    <Image Include="pokeball.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="Gimnasio.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="pokeparada.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="ball-poke.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="prueba.jpg">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="prueba 2.jpg">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="Pocion.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="Pokebola.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="Revivir.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="21.gif">
+      <Filter>Resource Files\Sprites de Pokemones\21 Inicial</Filter>
+    </Image>
+    <Image Include="22.gif">
+      <Filter>Resource Files\Sprites de Pokemones\22 Inicial</Filter>
+    </Image>
+    <Image Include="23.gif">
+      <Filter>Resource Files\Sprites de Pokemones\23 Inicial</Filter>
+    </Image>
+    <Image Include="24.gif">
+      <Filter>Resource Files\Sprites de Pokemones\24 Inicial</Filter>
+    </Image>
+    <Image Include="1001.gif">
+      <Filter>Resource Files\Sprites de Pokemones\1</Filter>
+    </Image>
+    <Image Include="1002.gif">
+      <Filter>Resource Files\Sprites de Pokemones\2</Filter>
+    </Image>
+    <Image Include="1003.gif">
+      <Filter>Resource Files\Sprites de Pokemones\3</Filter>
+    </Image>
+    <Image Include="1004.gif">
+      <Filter>Resource Files\Sprites de Pokemones\4</Filter>
+    </Image>
+    <Image Include="1005.gif">
+      <Filter>Resource Files\Sprites de Pokemones\5</Filter>
+    </Image>
+    <Image Include="1006.gif">
+      <Filter>Resource Files\Sprites de Pokemones\6</Filter>
+    </Image>
+    <Image Include="1007.gif">
+      <Filter>Resource Files\Sprites de Pokemones\7</Filter>
+    </Image>
+    <Image Include="1008.gif">
+      <Filter>Resource Files\Sprites de Pokemones\8</Filter>
+    </Image>
+    <Image Include="1009.gif">
+      <Filter>Resource Files\Sprites de Pokemones\9</Filter>
+    </Image>
+    <Image Include="1010.gif">
+      <Filter>Resource Files\Sprites de Pokemones\10</Filter>
+    </Image>
+    <Image Include="1011.gif">
+      <Filter>Resource Files\Sprites de Pokemones\11</Filter>
+    </Image>
+    <Image Include="1012.gif">
+      <Filter>Resource Files\Sprites de Pokemones\12</Filter>
+    </Image>
+    <Image Include="1013.gif">
+      <Filter>Resource Files\Sprites de Pokemones\13</Filter>
+    </Image>
+    <Image Include="1014.gif">
+      <Filter>Resource Files\Sprites de Pokemones\14</Filter>
+    </Image>
+    <Image Include="1015.gif">
+      <Filter>Resource Files\Sprites de Pokemones\15</Filter>
+    </Image>
+    <Image Include="1016.gif">
+      <Filter>Resource Files\Sprites de Pokemones\16</Filter>
+    </Image>
+    <Image Include="1018.gif">
+      <Filter>Resource Files\Sprites de Pokemones\18</Filter>
+    </Image>
+    <Image Include="1017.gif">
+      <Filter>Resource Files\Sprites de Pokemones\17</Filter>
+    </Image>
+    <Image Include="1019.gif">
+      <Filter>Resource Files\Sprites de Pokemones\19</Filter>
+    </Image>
+    <Image Include="1020.gif">
+      <Filter>Resource Files\Sprites de Pokemones\20</Filter>
+    </Image>
+    <Image Include="1021.gif">
+      <Filter>Resource Files\Sprites de Pokemones\21 Inicial</Filter>
+    </Image>
+    <Image Include="1022.gif">
+      <Filter>Resource Files\Sprites de Pokemones\22 Inicial</Filter>
+    </Image>
+    <Image Include="1023.gif">
+      <Filter>Resource Files\Sprites de Pokemones\23 Inicial</Filter>
+    </Image>
+    <Image Include="1024.gif">
+      <Filter>Resource Files\Sprites de Pokemones\24 Inicial</Filter>
+    </Image>
+    <Image Include="Huevo.jpg">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+    <Image Include="mapa5.png">
+      <Filter>Resource Files\Mapas</Filter>
+    </Image>
+    <Image Include="monedas.png">
+      <Filter>Resource Files\Utencilios</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
